@@ -1,6 +1,10 @@
 # Unity-Miscellaneous-Shaders
 一个管理小shader的仓库，慢慢添加。
 
+## Update：更新一个雪地印痕的效果小demo。
+
+![](http://images.cnblogs.com/cnblogs_com/murongxiaopifu/662093/o_3c.gif)
+
 ## 小随笔：写一个基于几何生成方法的描边效果
 
 ## 0x00 前言

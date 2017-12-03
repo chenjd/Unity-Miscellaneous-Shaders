@@ -2,6 +2,10 @@
 一个管理小shader的仓库，慢慢添加。
 
 
+## Update：Explosion and sand effect
+#### Description：
+run and click the model
+![](http://images.cnblogs.com/cnblogs_com/murongxiaopifu/662093/o_201712011144311512143071399_small.gif)
 
 ## Update：更新一个斯坦福兔子生成皮毛的demo
 #### Description：

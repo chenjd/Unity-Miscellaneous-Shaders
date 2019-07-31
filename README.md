@@ -9,8 +9,15 @@ run
 
 ## Update 2017/12/3：Explosion and sand effect
 #### Description：
+
 run and click the model
+
 ![](http://images.cnblogs.com/cnblogs_com/murongxiaopifu/662093/o_201712011144311512143071399_small.gif)
+
+Blog:
+
+[Using the geometry shader to achieve model explosion effect
+](http://chenjd.xyz/2019/07/31/Explode-and-sand-the-model-with-the-geometry-shader/)
 
 ## Update 2017/11/23：更新一个斯坦福兔子生成皮毛的demo
 #### Description：

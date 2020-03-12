@@ -17,7 +17,7 @@ run and click the model
 Blog:
 
 [Using the geometry shader to achieve model explosion effect
-](http://chenjd.xyz/2019/07/31/Explode-and-sand-the-model-with-the-geometry-shader/)
+](https://medium.com/@chen_jd/using-the-geometry-shader-to-achieve-model-explosion-effect-cf6d5ec03020)
 
 ## Update 2017/11/23：更新一个斯坦福兔子生成皮毛的demo
 #### Description：
